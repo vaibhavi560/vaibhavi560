@@ -34,3 +34,21 @@ print("Feature branch changes")
 10.git log --oneline
 11.git log --graph --oneline
 
+Bitbuket
+
+1.mkdir myproject2
+2.cd myproject
+3.git clone(link)
+4.cd my-1-repo
+5.touch sample.py
+6.notepad sample.py
+7.git add sample.py
+8.git status
+9.git commit -m "hey"
+10.notepad sample.py
+11.git add sample.py
+12.git commit -m "git"
+13.git status
+14.git log
+15.git push
+
